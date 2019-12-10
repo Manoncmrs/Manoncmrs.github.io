@@ -1,0 +1,53 @@
+h1 { 
+    color: #025C89;
+    font-family: sans-serif;
+  }
+  
+  p { 
+    color: #434A54;
+    font-family: sans-serif;
+  }
+  ul { 
+    color: #434A54;
+    font-family: sans-serif;
+  }
+  
+  .Manon {
+    font-weight: bold;
+     color: #025C89;
+  }
+  
+  img{
+    width:50%; height:50%;
+  }
+  
+  .Club {
+    font-weight: bold;
+     color: #FDFDFD;
+    font-size: 20px;
+   }
+  
+  .effet-reduction-4 {
+    border:0 solid red; 
+    border-radius:50%;
+    transition:transform .5s;
+  }
+  
+  .effet-reduction-4:hover{
+    transform:scale(0.80);
+  }
+  
+  :root {
+      --white:#f1f1f1
+  }
+  body { 
+        background-color: #D5E6FC;
+  }
+  
+  li{ 
+    color: #434A54;
+    font-family: sans-serif;}
+  
+  .Med {
+    font-weight: bold;
+     color: #434A54;}
